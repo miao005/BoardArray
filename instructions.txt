@@ -4,7 +4,7 @@ Instructions:
 
 navigate first inside src folder via:
 ```
-    cd src
+        
 ```
 
 1. Implement `void add(Entry* entry)` in the boardarray.h.
